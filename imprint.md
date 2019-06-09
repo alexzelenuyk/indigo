@@ -8,7 +8,7 @@ layout: page
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
 <p>Oleksii Zeleniuk<br />
 Valparaisostr. 15<br />
-22761 Hamburg</p>
+22761 Hamburg<br />
 Deutschland</p>
 
 <h2>Kontakt</h2>
