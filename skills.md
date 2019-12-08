@@ -8,10 +8,9 @@ layout: page
 
 ### I do "speak"
  - Node.js / Typescript
+ - Java / Kotlin (Spring Boot)
  - Python (Flask, Django)
  - PHP (Zend framework, Symfony, Phalcon, Yii, etc.)
- - Go
-
 
 ### I work with
  - Graphql, REST, Thrift
@@ -26,11 +25,10 @@ layout: page
  - Agile methodologies
  - TDD
  - DDD
- 
- 
+
+
 ### I'm not afraid of
- - Frontend
- - React / Redux
+ - Frontend with React
 
 
 ### I'm certified

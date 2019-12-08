@@ -1,12 +1,11 @@
 ---
-title: Companies
+title: References
 layout: page
 ---
 
-## Companies
+## References
 
 ---
-
 
 [![Fielmann AG](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/160506_Fielmann_LogoNEU_pos_wiki.svg/320px-160506_Fielmann_LogoNEU_pos_wiki.svg.png "Fielmann AG")](https://www.fielmann.de)
 
