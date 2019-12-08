@@ -7,7 +7,7 @@ layout: page
 --------
 
 ### I do "speak"
- - Node.js / Typescript
+ - Node.js / Typescript (NestJS, typeorm)
  - Java / Kotlin (Spring Boot)
  - Python (Flask, Django)
  - PHP (Zend framework, Symfony, Phalcon, Yii, etc.)
