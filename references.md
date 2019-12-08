@@ -9,6 +9,8 @@ layout: page
 
 [![Fielmann AG](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/160506_Fielmann_LogoNEU_pos_wiki.svg/320px-160506_Fielmann_LogoNEU_pos_wiki.svg.png "Fielmann AG")](https://www.fielmann.de)
 
+[![Oaktree Technologies](https://www.oak.tt/_nuxt/img/8d89c9c.svg "Oaktree Technologies GmbH")](https://www.oak.tt)
+
 [![ABOUT YOU GmbH](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ABOUT_YOU_Logo.png/320px-ABOUT_YOU_Logo.png "ABOUT YOU GmbH")](https://www.aboutyou.de)
 
 [![Jimdo GmbH](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jimdo_Logo.png/320px-Jimdo_Logo.png "Jimdo GmbH")](https://jimdo.com)
