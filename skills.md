@@ -8,9 +8,8 @@ layout: page
 
 ### I do "speak"
  - Node.js / Typescript (NestJS, typeorm)
- - Java / Kotlin (Spring Boot)
- - Python (Flask, Django)
  - PHP (Zend framework, Symfony, Phalcon, Yii, etc.)
+ - Python (Flask, Django)
 
 ### I work with
  - Graphql, REST, Thrift
@@ -28,7 +27,8 @@ layout: page
 
 
 ### I'm not afraid of
- - Frontend with React
+ - Java / Kotlin (Spring Boot)
+ - Frontend (React)
 
 
 ### I'm certified
