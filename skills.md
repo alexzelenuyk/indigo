@@ -16,10 +16,10 @@ layout: page
 
 ### I work with
 
--   Graphql, REST, Thrift
 -   AWS
+-   Graphql, REST, Thrift
 -   Serverless stack
--   Databases (MySQL/PostgreSQL/Oracle/DynamoDB/Coachbase)
+-   Databases (MySQL/PostgreSQL/Oracle/DynamoDB/Coachbase/MongoDB)
 -   Docker
 -   Git
 
