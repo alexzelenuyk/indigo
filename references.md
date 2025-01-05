@@ -17,7 +17,7 @@ layout: page
 [fielmann]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/160506_Fielmann_LogoNEU_pos_wiki.svg/320px-160506_Fielmann_LogoNEU_pos_wiki.svg.png "Fielmann AG"
 [couchhub]: https://coachhub.io/wp-content/uploads/2021/02/Logo-1.svg "CoachHub.io"
 [oaktree]: https://www.oak.tt/_nuxt/img/oaktree-logo.0d1ea63.png "Oaktree Technologies GmbH"
-[aboutyou]: https://de.wikipedia.org/wiki/About_You#/media/Datei:About_You_logo.svg "ABOUT YOU GmbH"
+[aboutyou]: https://upload.wikimedia.org/wikipedia/commons/1/18/About_You_logo.svgg "ABOUT YOU GmbH"
 [jimdo]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jimdo_Logo.png/320px-Jimdo_Logo.png "Jimdo GmbH"
 [goodgame]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Goodgame_Studios_Logo_2015.svg/320px-Goodgame_Studios_Logo_2015.svg.png "Goodgame Studios"
 [playtech]: https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Playtech_logo.svg/320px-Playtech_logo.svg.png "Playtech"
