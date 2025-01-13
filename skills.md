@@ -36,6 +36,6 @@ layout: page
 ### I'm certified
 
 -   [AWS Certified Developer – Associate](https://www.credly.com/badges/e3c39858-706d-451f-a9bf-9acd91df44cf/public_url)
--   [AWS Certified Solutions Architect - Associate](https://aw.certmetrics.com/amazon/public/verification.aspx)(validation number 335Y46HCJ2VE1G36)
+-   [AWS Certified Solutions Architect - Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/335Y46HCJ2VE1G36)
 -   [Engineering Managemenet](https://drive.google.com/file/d/1VzZlkOaose3Y1CPIFFOPG0pSD8SiTyN9/view)
 -   [The Professional Scrum Master I](https://www.scrum.org/certificates/524094)
