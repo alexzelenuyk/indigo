@@ -7,6 +7,12 @@ layout: page
 
 ---
 
+### I focus on
+
+-   Building Products
+-   Growing Teams
+-   Driving continuous improvement
+
 ### I do "speak"
 
 -   Java/Kotlin (Spring Boot)
@@ -23,12 +29,6 @@ layout: page
 -   Docker
 -   Git
 
-### I prefer
-
--   Agile methodologies
--   TDD
--   DDD
-
 ### I'm not afraid of
 
 -   Frontend (Next.js/React.js)
@@ -39,3 +39,4 @@ layout: page
 -   [AWS Certified Solutions Architect - Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/335Y46HCJ2VE1G36)
 -   [Engineering Managemenet](https://drive.google.com/file/d/1VzZlkOaose3Y1CPIFFOPG0pSD8SiTyN9/view)
 -   [The Professional Scrum Master I](https://www.scrum.org/certificates/524094)
+-   [SAFe 6 Agilist](https://www.credly.com/badges/17f631d8-cf40-4184-88fc-add9da8291a4/public_url)
