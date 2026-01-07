@@ -13,7 +13,7 @@ layout: page
 |[![Goodgame Studios][goodgame]](https://goodgamestudios.com/de/) | [![Playtech][playtech]](https://playtech.com) |
 
 
-[porsche]: https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Porsche_Logo.svg/250px-Porsche_Logo.svg.png "Porsch AG"
+[porsche]: https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Porsche_Logo.svg/120px-Porsche_Logo.svg.png "Porsch AG"
 [fielmann]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fielmann_Group_AG_Logo.svg/250px-Fielmann_Group_AG_Logo.svg.png "Fielmann AG"
 [couchhub]: https://coachhub.io/wp-content/uploads/2021/02/Logo-1.svg "CoachHub.io"
 [oaktree]: https://www.oak.tt/_nuxt/img/oaktree-logo.0d1ea63.png "Oaktree Technologies GmbH"
